@@ -22,11 +22,6 @@ Website ini menampilkan informasi menu, galeri makanan, lokasi, dan profil rumah
 <img src="gambar/location.png">
 <img src="gambar/contact.png">
 
-![Preview Website](https://raw.githubusercontent.com/FAHMIALAN/RM-RICA_RICA_BHETENKZ_PUNDONG/main/assets/images/preview.jpg)
-
-> 📌 Letakkan gambar `preview.jpg` di folder: `assets/images/preview.jpg`  
-> (Kamu bisa pakai screenshot tampilan website)
-
 ---
 
 ## 💡 Teknologi yang Digunakan
