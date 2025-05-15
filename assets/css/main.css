@@ -266,7 +266,6 @@ section {
     list-style: none;
     align-items: center;
   }
-
   .navbar li {
     position: relative;
   }
@@ -399,6 +398,7 @@ section {
     display: none;
   }
 }
+
 
 /*--------------------------------------------------------------
 # Mobile Navigation
