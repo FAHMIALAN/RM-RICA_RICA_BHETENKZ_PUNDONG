@@ -16,6 +16,11 @@ Website ini menampilkan informasi menu, galeri makanan, lokasi, dan profil rumah
 ---
 
 ## 📸 Tampilan Website
+<img src="gambar/home.png">
+<img src="gambar/about.png">
+<img src="gambar/menu.png">
+<img src="gambar/location.png">
+<img src="gambar/contact.png">
 
 ![Preview Website](https://raw.githubusercontent.com/FAHMIALAN/RM-RICA_RICA_BHETENKZ_PUNDONG/main/assets/images/preview.jpg)
 
@@ -34,14 +39,5 @@ Website ini menampilkan informasi menu, galeri makanan, lokasi, dan profil rumah
 
 ---
 
-## 🤝 Kontribusi & Lisensi
-
-Proyek ini dibuat untuk keperluan pembelajaran dan pengembangan. Silakan fork, modifikasi, dan beri ⭐ jika kamu suka!
-
----
-
-## 🙌 Tentang Kami
-
-Rumah Makan Rica-Rica Bhetenkz Pundong terletak di Bantul, Yogyakarta. Kami hadir membawa rasa pedas menggoda yang bikin ketagihan! 🌶️
 
 
