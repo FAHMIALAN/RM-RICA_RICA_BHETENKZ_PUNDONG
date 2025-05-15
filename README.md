@@ -1,4 +1,3 @@
-﻿# RM-RICA_RICA_BHETENKZ_PUNDONG
 # 🍛 RM Rica-Rica Bhetenkz Pundong
 
 Selamat datang di website resmi **Rica-Rica Bhetenkz Pundong** – tempat kuliner legendaris khas pedesaan dengan cita rasa pedas mantap!  
@@ -30,13 +29,8 @@ Website ini menampilkan informasi menu, galeri makanan, lokasi, dan profil rumah
 - HTML5 & CSS3
 - JavaScript
 - Bootstrap 5
-- Google Maps Embed
-
----
-
-## 🚀 Live Demo
-
-📍 [Kunjungi Website](https://your-web-link.com) *(jika sudah dihosting)*
+- Google Maps
+- Mapbox
 
 ---
 
